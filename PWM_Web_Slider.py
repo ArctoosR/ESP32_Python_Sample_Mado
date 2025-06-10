@@ -4,8 +4,8 @@ import time
 from machine import Pin, PWM
 
 # تنظیمات شبکه WiFi
-SSID = "farasens_kosar"
-PASSWORD = "farasens2002"
+SSID = "REPLACE_WITH_YOUR_SSID"
+PASSWORD = "REPLACE_WITH_YOUR_PASSWORD"
 
 # راه‌اندازی PWM روی GPIO 2
 pwm_pin = PWM(Pin(2))
