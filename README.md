@@ -3,4 +3,4 @@
 1:Install Driver cp2102 -> (com_esp32)
 
 
-2:Upload File (*.bin) On esp32 By thony
+2:Upload File (*.bin) On esp32 By thony(Tools/Options/Interpreter)
